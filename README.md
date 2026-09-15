@@ -19,3 +19,9 @@ Tôi muốn học về phần mềm mã nguồn mở (Open Source Software - OSS
 3. **Mozilla Firefox** (Trình duyệt web) - **Giấy phép:** Mozilla Public License (MPL 2.0)
 4. **Linux (Ubuntu)** (Hệ điều hành) - **Giấy phép:** GNU GPL v2
 5. **VLC Media Player** (Trình phát đa phương tiện) - **Giấy phép:** GNU GPL v2+
+
+## Giấy phép
+
+Mã nguồn trong kho này được phát hành theo [Giấy phép MIT](LICENSE).
+
+SPDX-License-Identifier: MIT
