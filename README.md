@@ -1,7 +1,7 @@
 # Thông tin sinh viên
 
 * **Họ và tên:** Nguyễn Thế Hiển
-* **Mã sinh viên:** 21T1020162
+* **Mã sinh viên:** 23T1020162
 * **Lớp:** K47 L - Công Nghệ Thông Tin
 
 ---
